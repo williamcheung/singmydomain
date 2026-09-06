@@ -76,4 +76,4 @@ GMI_TTS_MODEL = os.environ.get("GMI_TTS_MODEL", "minimax-tts-speech-2.8-hd")
 
 # video_h3.py: MiniMax H3 Max video generation model and duration in seconds.
 GMI_VIDEO_MODEL = os.environ.get("GMI_VIDEO_MODEL", "minimax/h3-max")
-GMI_VIDEO_DURATION = _int_env("GMI_VIDEO_DURATION", 5)
+GMI_VIDEO_DURATION = _int_env("GMI_VIDEO_DURATION", 8)
