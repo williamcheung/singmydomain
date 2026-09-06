@@ -2,6 +2,10 @@
 
 🔗 **[Try it live](https://sing-mydomain-873195210882.us-central1.run.app/)**
 
+🎬 **[Watch demo](https://youtu.be/Qaalw_y0zvA)**
+
+⚡ **[Watch 2-minute demo](https://youtu.be/w_TkRKsUQoM)**
+
 ## What it does
 
 You describe your app, get AI-suggested domain names, search availability, then before registering and spending money, you hear and see your chosen domain brought to life:
