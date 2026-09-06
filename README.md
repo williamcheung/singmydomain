@@ -1,5 +1,7 @@
 **Sing My Domain** helps you decide on a domain name for your app before you pay for it — by letting you *experience* it first.
 
+🔗 **[Try it live](https://sing-mydomain-873195210882.us-central1.run.app/)**
+
 ## What it does
 
 You describe your app, get AI-suggested domain names, search availability, then before registering and spending money, you hear and see your chosen domain brought to life:
